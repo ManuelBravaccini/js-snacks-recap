@@ -1,0 +1,22 @@
+* {
+    font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+button {
+    height: 50px;
+    width: 40%;
+    background-color: grey;
+}
+
+div.green,
+p.green {
+    color: green;
+}
+
+div.red,
+p.red {
+    color: red;
+}
+
